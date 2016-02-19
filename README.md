@@ -30,8 +30,7 @@ A bot to tell random fortunes with random cowsay characters.
 Create a new Bot Integration under [services/new/bot](http://slack.com/services/new/bot).
 
 ```bash
-SLACK_API_TOKEN=xxx bundle exec ruby
-cowfortune.rb
+SLACK_API_TOKEN=xxx bundle exec ruby cowfortune.rb
 ```
 
 Invite your bot into a channel and say `@yourbotname fortune`.
