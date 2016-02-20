@@ -33,7 +33,7 @@ Create a new Bot Integration under [services/new/bot](http://slack.com/services/
 SLACK_API_TOKEN=xxx bundle exec ruby cowfortune.rb
 ```
 
-Invite your bot into a channel and say `@yourbotname fortune`.
+Invite your bot into a channel and say `fortune`.
 
 # Dependencies
 
